@@ -111,3 +111,4 @@ Production-ready ML pipeline with preprocessing + deployment-ready architecture.
 ---
 
 ⭐ Open to Machine Learning, Data Science, and MLOps opportunities!
+<!-- profile-readme -->
